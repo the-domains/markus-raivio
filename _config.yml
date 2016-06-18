@@ -1,14 +1,26 @@
-layout_spectrum: 0.7966557836625725
-typography_spectrum: 0.7378660917747766
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.05957447
 color:
-  brandStrength: 0.7268653842620552
-  lightness: 0.3520744824782014
-  saturation: 0.9506809108424932
-  rhythmicContrast: 0.6469293634872884
+  saturation: 0.7914894
+  brandStrength: 0.4234042
+  lightness: 0.6191489
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#F0E7D8'
+    - '#140A0B'
+    - '#C3A98E'
+    - '#C72415'
+    - '#4A4A52'
+  rhythmicContrast: 0.8425532
+layout_spectrum: 0.5893617
 name: Markus Raivio
