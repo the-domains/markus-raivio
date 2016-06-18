@@ -1,3 +1,7 @@
+name: Markus Raivio
+favicon: null
+layout_spectrum: 0.5893617
+typography_spectrum: 0.05957447
 collections:
   - index:
       path: /
@@ -10,17 +14,30 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.05957447
+title: >-
+  Työnohjaaja,työyhteisön kehittäjä, Propellipäiden pääsihteeri, muusikko,
+  äänituottaja
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7914894
-  brandStrength: 0.4234042
-  lightness: 0.6191489
   brandColors:
     - '#F0E7D8'
     - '#140A0B'
     - '#C3A98E'
     - '#C72415'
     - '#4A4A52'
+  brandStrength: 0.4234042
+  lightness: 0.6191489
+  saturation: 0.7914894
   rhythmicContrast: 0.8425532
-layout_spectrum: 0.5893617
-name: Markus Raivio
+purpose: []
